@@ -13,11 +13,11 @@ export default function Main(){
             <section className='section'/>
             <article className='article'>
                 <Routes>
-                    <Route path="/" element={<HomePage />} />
-                    <Route path="/about" element={<AboutPage />} />
-                    <Route path='/news' element={<NewsPage />} />
-                    <Route path='/contacts' element={<ContactsPage />}/>
-                    <Route path="*" element={<NotFoundPage />} />
+                    <Route path="/Lab15/" element={<HomePage />} />
+                    <Route path="/Lab15/about" element={<AboutPage />} />
+                    <Route path='/Lab15/news' element={<NewsPage />} />
+                    <Route path='/Lab15/contacts' element={<ContactsPage />}/>
+                    <Route path="Lab15/*" element={<NotFoundPage />} />
                 </Routes>
             </article>
             <aside className='aside'>
