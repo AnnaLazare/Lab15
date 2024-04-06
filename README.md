@@ -5,8 +5,7 @@ https://annalazare.github.io/Lab15/
 
 ## Применяемые технологии
 
-React
-React Router
+React, React Router
 
 ## Для запуска локальной версии выполните следующи команды
 
