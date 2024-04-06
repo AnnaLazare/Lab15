@@ -5,14 +5,14 @@ import {Link} from "react-router-dom";
 export default function Header() {
     return (
         <header className="header">
-            <Link to='/'>
+            <Link to='/Lab15/'>
                 <img className='header__img' alt='Логотип ЮФУ' src={UFU}/>
             </Link>
 
             <nav className='header__links'>
-                <Link className='header__link' to='/news'>Новости</Link>
-                <Link className='header__link' to='/about'>О проекте</Link>
-                <Link className='header__link' to='/contacts'>Контакты</Link>
+                <Link className='header__link' to='/Lab15/news'>Новости</Link>
+                <Link className='header__link' to='/Lab15/about'>О проекте</Link>
+                <Link className='header__link' to='/Lab15/contacts'>Контакты</Link>
             </nav>
         </header>
     )
