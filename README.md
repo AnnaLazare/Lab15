@@ -8,12 +8,12 @@ https://annalazare.github.io/Lab15/
 React
 React Router
 
-### Для запуска локальной версии выполните следующи команды
+## Для запуска локальной версии выполните следующи команды
 
-#### git clone https://github.com/AnnaLazare/Lab15.git
+##№ git clone https://github.com/AnnaLazare/Lab15.git
 
-#### npm i
+### npm i
 
-#### npm run serve
+### npm run serve
 
 
